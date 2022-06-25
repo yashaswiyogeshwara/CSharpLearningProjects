@@ -1,0 +1,11 @@
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.exe
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.deps.json
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.runtimeconfig.json
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.runtimeconfig.dev.json
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.dll
+E:\Projects\Freshers questions\CustomDataStructure\bin\Debug\netcoreapp3.1\CustomDataStructure.pdb
+E:\Projects\Freshers questions\CustomDataStructure\obj\Debug\netcoreapp3.1\CustomDataStructure.csprojAssemblyReference.cache
+E:\Projects\Freshers questions\CustomDataStructure\obj\Debug\netcoreapp3.1\CustomDataStructure.AssemblyInfoInputs.cache
+E:\Projects\Freshers questions\CustomDataStructure\obj\Debug\netcoreapp3.1\CustomDataStructure.AssemblyInfo.cs
+E:\Projects\Freshers questions\CustomDataStructure\obj\Debug\netcoreapp3.1\CustomDataStructure.dll
+E:\Projects\Freshers questions\CustomDataStructure\obj\Debug\netcoreapp3.1\CustomDataStructure.pdb

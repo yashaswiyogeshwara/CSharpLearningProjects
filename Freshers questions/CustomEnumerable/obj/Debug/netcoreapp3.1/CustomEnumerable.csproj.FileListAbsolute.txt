@@ -1,0 +1,11 @@
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.exe
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.deps.json
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.runtimeconfig.json
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.runtimeconfig.dev.json
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.dll
+E:\Projects\Freshers questions\CustomEnumerable\bin\Debug\netcoreapp3.1\CustomEnumerable.pdb
+E:\Projects\Freshers questions\CustomEnumerable\obj\Debug\netcoreapp3.1\CustomEnumerable.csprojAssemblyReference.cache
+E:\Projects\Freshers questions\CustomEnumerable\obj\Debug\netcoreapp3.1\CustomEnumerable.AssemblyInfoInputs.cache
+E:\Projects\Freshers questions\CustomEnumerable\obj\Debug\netcoreapp3.1\CustomEnumerable.AssemblyInfo.cs
+E:\Projects\Freshers questions\CustomEnumerable\obj\Debug\netcoreapp3.1\CustomEnumerable.dll
+E:\Projects\Freshers questions\CustomEnumerable\obj\Debug\netcoreapp3.1\CustomEnumerable.pdb

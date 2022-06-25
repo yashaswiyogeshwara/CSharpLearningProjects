@@ -1,0 +1,11 @@
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.exe
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.deps.json
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.json
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.dev.json
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.dll
+E:\Projects\Freshers questions\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.pdb
+E:\Projects\Freshers questions\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.csprojAssemblyReference.cache
+E:\Projects\Freshers questions\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfoInputs.cache
+E:\Projects\Freshers questions\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfo.cs
+E:\Projects\Freshers questions\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.dll
+E:\Projects\Freshers questions\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.pdb

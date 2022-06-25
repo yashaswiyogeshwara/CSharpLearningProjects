@@ -1,0 +1,12 @@
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.exe
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.deps.json
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.runtimeconfig.json
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.runtimeconfig.dev.json
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.dll
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\JsonDesrializationLinq.pdb
+E:\Projects\Freshers questions\JsonDesrializationLinq\obj\Debug\netcoreapp3.1\JsonDesrializationLinq.AssemblyInfoInputs.cache
+E:\Projects\Freshers questions\JsonDesrializationLinq\obj\Debug\netcoreapp3.1\JsonDesrializationLinq.AssemblyInfo.cs
+E:\Projects\Freshers questions\JsonDesrializationLinq\obj\Debug\netcoreapp3.1\JsonDesrializationLinq.dll
+E:\Projects\Freshers questions\JsonDesrializationLinq\obj\Debug\netcoreapp3.1\JsonDesrializationLinq.pdb
+E:\Projects\Freshers questions\JsonDesrializationLinq\bin\Debug\netcoreapp3.1\ExportJson.json
+E:\Projects\Freshers questions\JsonDesrializationLinq\obj\Debug\netcoreapp3.1\JsonDesrializationLinq.csprojAssemblyReference.cache

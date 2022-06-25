@@ -1,0 +1,11 @@
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.exe
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.deps.json
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.runtimeconfig.json
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.runtimeconfig.dev.json
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.dll
+E:\Projects\Freshers questions\MessageQueue\bin\Debug\netcoreapp3.1\MessageQueue.pdb
+E:\Projects\Freshers questions\MessageQueue\obj\Debug\netcoreapp3.1\MessageQueue.AssemblyInfoInputs.cache
+E:\Projects\Freshers questions\MessageQueue\obj\Debug\netcoreapp3.1\MessageQueue.AssemblyInfo.cs
+E:\Projects\Freshers questions\MessageQueue\obj\Debug\netcoreapp3.1\MessageQueue.dll
+E:\Projects\Freshers questions\MessageQueue\obj\Debug\netcoreapp3.1\MessageQueue.pdb
+E:\Projects\Freshers questions\MessageQueue\obj\Debug\netcoreapp3.1\MessageQueue.csprojAssemblyReference.cache

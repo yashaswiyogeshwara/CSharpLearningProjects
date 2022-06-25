@@ -1,0 +1,34 @@
+﻿Question -1:
+
+Generic vs Non-Generic Collections.
+----------------------------------------------------------------------------------------------
+Question 0:
+
+Let's say you have an integer array and a string array. 
+You have to write a single method printArray that can print all the elements of both arrays. 
+The method should be able to accept both integer arrays or string arrays.
+
+You are given code in the editor. Complete the code so that it prints the following lines:
+----------------------------------------------------------------------------------------------
+Question 1
+
+//EmployeeStorer.cs
+Create a class that stores a list of Employees and implments method Add, Delete, Update Read, Read(int index) and Contains.
+-----------------------------------------------------------------------------------------------
+Question 2
+
+//DataStorer.cs
+Create a generic class with Add, Update, Delete, Contains , Read, Read(int index) methods.
+-----------------------------------------------------------------------------------------------
+Question 3
+
+The above data structure should store only primitive types
+-----------------------------------------------------------------------------------------------
+Question 4
+
+The above DS should store only Custom types that implement IVechile
+-----------------------------------------------------------------------------------------------
+
+
+
+
